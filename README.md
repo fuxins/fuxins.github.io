@@ -1,0 +1,2 @@
+# fuxins.github.io
+blog
